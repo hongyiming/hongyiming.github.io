@@ -1,0 +1,139 @@
+@charset "UTF-8";
+/* CSS Document */
+
+＊
+   {
+
+	margin:0;padding:0;
+
+	}
+
+body
+
+    {
+	}
+
+.center
+    {
+     width:1200px;
+	margin:0 auto;
+	}
+
+.c
+    {
+	clear:both;
+	}
+
+a:link,a:visited
+    {
+	color:#707070;
+	text-decoration:none;
+	}
+
+a:hover
+    {
+	text-decoration: underline;
+	}
+
+.lt
+    {
+	float:left;
+	}
+
+.rt
+    {
+	float:right;
+	}
+
+li
+
+    {
+	list-style-type:none;
+	}
+.menu li
+     {
+	float: left;
+	color: #FFFFFF;
+	padding-top: 25px;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	  }
+.menu ul
+     {
+	 width:1000px;
+	 height:50px;	 
+	}
+.menu a:link,a:visited
+
+    {
+		width:50px;
+		height:100px;
+	color:#FFFFFF;
+	font-family:"微软雅黑";
+	text-decoration:none;
+	font-size:12px;
+	}
+	
+.menu a:hover
+
+    {
+	text-decoration:none;
+	color:#FF0004;
+	background-color:#676767;
+	}
+	.aa a:link,a:visited
+
+    {
+	color:#ffffff;
+	font-family:"微软雅黑";
+	text-decoration:none;
+	font-size:16px;
+text-decoration:underline;
+	}
+.aa a:hover
+
+    {
+	text-decoration:none;
+	color:#FF0004;
+	background-color:#676767;
+	}
+	
+.daohang
+    {	
+	width:100%;
+	height:70px;
+	background:url(../images/toutoutou.jpg);
+	background-repeat:repeat-x;
+	margin-top:-16px;
+	}
+
+.daohangzi
+    {
+	width: 1000px;
+	text-indent: 88px;
+	padding-top: 0px;
+	margin-left:100px;
+	}
+.back
+    {
+	width:100%;
+	height:100%;	
+	background:url(../images/images/1_02.jpg)
+	background-repeat:no-repeat;
+	border:0;
+
+	}
+.nav{
+    position:fixed; 
+    top:0; 
+    left:0; 
+    width:100%; 
+    height:40px;
+    z-index:99; 
+}
+	.flash
+    {
+	width: 1200px;
+	height: 720px;
+	margin-top:20px;
+	}

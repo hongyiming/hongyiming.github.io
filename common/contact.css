@@ -1,0 +1,303 @@
+@charset "UTF-8";
+/* CSS Document */
+
+＊
+   {
+
+	margin:0;padding:0;
+
+	}
+
+body
+
+    {
+	}
+
+.center
+    {
+     width:1000px;
+	margin:0 auto;
+	}
+
+.c
+    {
+	clear:both;
+	}
+
+a:link,a:visited
+    {
+	color:#707070;
+	text-decoration:none;
+	}
+
+a:hover
+    {
+	text-decoration: underline;
+	}
+
+.lt
+    {
+	float:left;
+	}
+
+.rt
+    {
+	float:right;
+	}
+
+li
+
+    {
+	list-style-type:none;
+	}
+.menu li
+     {
+	float: left;
+	color: #FFFFFF;
+	padding-top: 25px;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	  }
+.menu ul
+     {
+	 width:1000px;
+	 height:50px;	 
+	}
+.menu a:link,a:visited
+
+    {
+		width:50px;
+		height:100px;
+	color:#FFFFFF;
+	font-family:"微软雅黑";
+	text-decoration:none;
+	font-size:12px;
+	}
+	
+.menu a:hover
+
+    {
+	text-decoration:none;
+	color:#FF0004;
+	background-color:#676767;
+	}
+	.aa a:link,a:visited
+
+    {
+	color:#ffffff;
+	font-family:"微软雅黑";
+	text-decoration:none;
+	font-size:16px;
+text-decoration:underline;
+	}
+.aa a:hover
+
+    {
+	text-decoration:none;
+	color:#FF0004;
+	background-color:#676767;
+	}
+	
+.daohang
+    {	
+	width:100%;
+	height:70px;
+	background:url(../images/toutoutou.jpg);
+	background-repeat:repeat-x;
+	margin-top:-16px;
+	}
+
+.daohangzi
+    {
+	width: 1000px;
+	text-indent: 88px;
+	padding-top: 0px;
+	margin-left:100px;
+	}
+.back
+    {
+	width:100%;
+	height:100%;	
+	background:url(../images/images/1_02.jpg)
+	background-repeat:no-repeat;
+	border:0;
+
+	}
+.nav{
+    position:fixed; 
+    top:0; 
+    left:0; 
+    width:100%; 
+    height:40px;
+    z-index:99; 
+}
+
+.da
+{ width:1000px;
+}
+.biaoti
+{
+	float: left;
+	margin-top: 150px;
+}
+.biaotilogo
+{float:left;}
+.biaotizi
+{font-size:36px;
+font-family:"微软雅黑";
+font-weight:bold;
+color:#ffffff;
+float:left;
+padding-top:8px;
+padding-left:12px;
+letter-spacing:2px;
+}
+
+   .me
+   {
+	width: 1000px;
+	height: 200px;
+	margin-top: 100px;	
+   }
+.message
+{
+	width: 200px;
+	height: 200px;
+     float:left;
+	padding-left: 121px;
+	}
+	.message2
+{
+	width: 200px;
+	height: 200px;
+    float:left;
+	padding-left:78px;
+	}
+	.messageword
+	{
+	font-size: 18px;
+	color: #D4D4D4;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	padding-top: 15px;
+		}
+			.messageword2
+	{
+	font-size: 10px;
+	color: #A4A4A4;
+	font-family: "微软雅黑";
+	font-weight: lighter;
+	padding-top: 10px;
+	line-height: 18px;
+		}
+.hengxian
+{
+	width: 800px;
+	height: 1px;
+	background:#838383;
+	margin-top:-26px;
+}
+.k
+{width:1000px;
+height:1000px;
+
+}
+
+	.kuang input
+	{
+	width: 350px;
+	height: 50px;
+	background: #acacac;
+	border: none;
+	float: left;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: "微软雅黑";
+	padding-left: 32px;
+	font-weight: lighter;
+	margin-top: 20px;
+	margin-left: 30px;
+	}
+	.kuang2 input
+	{
+	width:350px;
+	height: 50px;
+	background: #acacac;
+	border: none;
+	float: right;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family:"微软雅黑";
+	padding-left: 32px;
+	font-weight: lighter;
+	margin-top: 20px;
+		margin-left: 30px;
+	}
+	.kuang3 input
+	{
+	width:884px;
+	height: 150px;
+	background: #acacac;
+	border: none;
+	float: right;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family:"微软雅黑";
+	padding-left: 32px;
+	font-weight: lighter;
+	margin-top: 44px;
+	}
+	.send
+	{
+	width: 210px;
+float:left;
+	padding-top:50px;
+	padding-left:395px;
+	}
+	.name
+	{
+    font-family:"微软雅黑";
+	float: left;
+	font-size: 16px;
+	color: #D5D5D5;
+	padding-top: 0px;
+	margin-top: 38px;
+		}
+			.name2
+	{
+		 font-family:"微软雅黑";
+	float: left;
+	font-size: 16px;
+	color: #D5D5D5;
+	padding-top: 0px;
+	margin-top: 38px;
+	margin-left: 60px;
+		}
+
+			.name3
+	{
+		 font-family:"微软雅黑";
+	float: left;
+	font-size: 16px;
+	color: #D5D5D5;
+	padding-top: 0px;
+	margin-top: 177px;
+	margin-left: -583px;
+		}
+.dibu
+{
+	width: 100%;
+	height: 150px;
+	background: url(../images/dibu2.jpg);
+	float: left;
+	margin-top: 80px;
+	}
+	.dibuzi
+	{
+	padding-top:65px;
+	font-size:10px;
+	color:#cdcdcd;
+	font-family: "微软雅黑";
+	word-spacing: 5px;
+	letter-spacing: 1px;
+		}
